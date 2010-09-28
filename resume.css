@@ -1,0 +1,115 @@
+
+div#content
+ {
+font-family:"Sans-serif", Helvetica; 
+background: white; 
+
+text-align: left;
+color: black;
+font-size: 18px;
+margin-top: 149px;
+
+overflow: auto;
+border: 2px;
+border-style: groove; 
+
+width: auto;
+height:auto;
+	
+	left: 900px;
+	width: 950px;
+	height: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+	}
+	
+	
+body 
+{	
+
+margin:0;
+
+
+background: #0f1935 url(Images/skyline.jpg) no-repeat bottom center;
+
+width:100%; 
+height:auto;
+display: table;	
+
+}
+
+
+navigation
+ul
+{
+list-style-type:none;
+padding:0;
+}
+
+a
+{
+display:block;
+border: none;
+width: 0;
+color: #c1ced5;
+}
+
+a: hover
+{
+position: relative; 
+top: .5px;
+left: .5px;
+border-color: #c1ced5;
+
+}
+
+a:active
+{
+display:link; 
+color:#c1ced5;
+background-color:url(Images/color.jpg);
+
+
+}
+
+
+
+li{font-family:"Sans-serif", Calibri;
+ } 
+
+
+ 
+h1{ text-align: center;
+	color: #8B0000}
+	
+h5{ text-align: center;
+	line-height:0px}
+
+
+h4{text-decoration:underline; 
+font-size: 19px}
+
+h6{text-align: left;
+display:block;
+font-size: 16px; 
+color: white;
+font-weight: bold;
+width: 110px;
+}
+
+ul.NoBullet
+{
+		list-style-type: none;
+		
+		
+}
+
+{		
+ul.Bullet;
+		list-type: none; 
+		
+		
+		}
+		

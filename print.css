@@ -1,0 +1,71 @@
+div#content
+div#content
+ {
+font-family:"Sans-serif", Helvetica; 
+background: white; 
+
+text-align: left;
+color: black;
+font-size: 25px;
+margin-top: 149px;
+
+overflow: auto;
+border: 2px;
+border-style: groove; 
+
+width: auto;
+height:auto;
+	
+	
+	
+	}
+	
+	
+	
+navigation
+ul
+{
+list-style-type:none;
+padding:0;
+}
+
+
+
+
+li{font-family:"Sans-serif", Calibri;
+ } 
+
+
+ 
+h1{ text-align: center;
+	color: #8B0000}
+	
+h5{ text-align: center;
+	line-height:0px}
+
+
+h4{text-decoration:underline; 
+font-size: 19px}
+
+h6{text-align: left;
+display:block;
+font-size: 16px; 
+color: white;
+font-weight: bold;
+
+}
+
+ul.NoBullet
+{
+		list-style-type: none;
+		
+		
+}
+
+{		
+ul.Bullet;
+		list-type: none; 
+		
+		
+		}
+		
